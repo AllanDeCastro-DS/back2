@@ -1,7 +1,7 @@
 // criar um array com nome de pessoas
 
 
-let nomes = ['Adilson', 'Berenilda', 'Ceciliana']
+let nomes = ['Adílson', 'Berenilda', 'Ceciliana']
 
 let frutas = ['amora', 'banana', 'caqui']
 
